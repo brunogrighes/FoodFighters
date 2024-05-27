@@ -1,11 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-import {
-  FaBitcoin,
-  FaYoutube,
-  FaSquareGithub,
-  FaGithub,
-} from "react-icons/fa6";
+import { FaBitcoin, FaYoutube, FaSquareGithub } from "react-icons/fa6";
 import { BsInstagram } from "react-icons/bs";
 
 const Navbar = () => {
